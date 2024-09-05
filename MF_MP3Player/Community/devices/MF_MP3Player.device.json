@@ -1,8 +1,8 @@
 {
     "$schema": "./mfdevice.schema.json",
     "Info": {
-      "Label": "Mobiflight's template",
-      "Type": "MOBIFLIGHT_TEMPLATE",
+      "Label": "MF MP3Player",
+      "Type": "MF_MP3Player",
       "Author": "Mobiflight",
       "URL": "https://github.com",
       "Version" : "1.0.0"
@@ -18,8 +18,8 @@
     "MessageTypes": [
       {
         "id": 0,
-        "label": "Show Speed Value",
-        "description": "$ will be displayed as Speed value"
+        "label": "GPWS Failed (Boolean)",
+        "description": "0 = False, 1 = True"
       },
       {
         "id": 1,
