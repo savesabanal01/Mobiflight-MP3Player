@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MobiflightConnector>
+  <outputs>
+    <config guid="095d1e61-2e55-4010-ae51-11da7cb47e7e">
+      <active>true</active>
+      <description>GPWS</description>
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.3.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="XplaneDataRef" path="sim/cockpit2/annunciators/GPWS" />
+        <test type="Float" value="1" />
+        <modifiers />
+        <display type="CustomDevice" serial="MF_MP3Player Nano/ SN-59B-CC1" trigger="normal" customType="" customName="MF MP3Player Nano" messageType="0" value="$" />
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+  </outputs>
+  <inputs />
+</MobiflightConnector>

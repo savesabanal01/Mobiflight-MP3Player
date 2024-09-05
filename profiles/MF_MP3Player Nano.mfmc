@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModuleType>MF_MP3Player_Nano</ModuleType>
+  <ModuleName>MF_MP3Player Nano</ModuleName>
+  <PowerSavingTime>600</PowerSavingTime>
+  <CustomDevice Name="MF MP3Player Nano" CustomType="MF_MP3Player" Pins="2|3|4" Config="">
+    <ConfiguredPins>
+      <string>2</string>
+      <string>3</string>
+      <string>4</string>
+    </ConfiguredPins>
+  </CustomDevice>
+</Config>
