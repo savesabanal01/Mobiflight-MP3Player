@@ -32,7 +32,7 @@
     "CanResetBoard": true,
     "FirmwareBaseName": "MF_MP3Player_nano",
     "FirmwareExtension": "hex",
-    "FriendlyName": "Arduino Nano",
+    "FriendlyName": "MF MP3Player",
     "LatestFirmwareVersion": "2.5.1",
     "MobiFlightType": "MF_MP3Player_Nano",
     "ResetFirmwareFile": "reset.arduino_uno_1_0_2.hex",
@@ -58,7 +58,7 @@
     "MaxShifters": 6,
     "MaxSteppers": 4,
     "MaxInputMultiplexer": 6,
-    "MaxCustomDevices": 0
+    "MaxCustomDevices": 5
   },
   "Pins": [
     {
